@@ -4,11 +4,11 @@
   background-color: #fefefe;
 }
 
-h1 { font-size: 33px; line-height: 39px; margin-bottom: 24px; }
-h2 { font-size: 27px; line-height: 33px; margin-bottom: 20px; }
-h3 { font-size: 23px; line-height: 27px; margin-bottom: 16px; }
-h4 { font-size: 19px; line-height: 23px; margin-bottom: 12px; }
-p  { font-size: 16px; line-height: 30px; margin-bottom: 20px; }
+h1 { font-size: 31px; line-height: 37px; margin-bottom: 24px; }
+h2 { font-size: 26px; line-height: 31px; margin-bottom: 20px; }
+h3 { font-size: 22px; line-height: 26px; margin-bottom: 16px; }
+h4 { font-size: 18px; line-height: 22px; margin-bottom: 12px; }
+p  { font-size: 15px; line-height: 28px; margin-bottom: 20px; }
 
 p {
   color: #666666;
@@ -27,6 +27,10 @@ a:hover {
   margin: 24px;
   max-width: 640px;
   /*transition: margin 200ms ease-in;*/
+}
+
+.end {
+  color: #bbbbbb;
 }
 
 @media screen and (min-width: 640px) {
